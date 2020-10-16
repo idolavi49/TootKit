@@ -1,2 +1,2 @@
 # rootKit
-My rootKit python project
+My rootkit python project
